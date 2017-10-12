@@ -2,6 +2,7 @@
 
 I’m an avid Software Developer who enjoys learning web application, mobile technology, collaboration, and promoting the success of others.
 
+
 Programming Languages & Frameworks
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
 ♦ PHP (Laravel)
@@ -12,7 +13,9 @@ Programming Languages & Frameworks
 ♦ Android
 ♦ Node.js
 
+
 Tools and Servers
+
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
 ♦ Git
 ♦ Gulp, Grunt
