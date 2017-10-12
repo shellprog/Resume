@@ -6,21 +6,33 @@ I’m an avid Software Developer who enjoys learning web application, mobile tec
 Programming Languages & Frameworks
 
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
+
 ♦ PHP (Laravel)
+
 ♦ Javascript (JQuery and AngularJS)
+
 ♦ HTML5
+
 ♦ CSS3
+
 ♦ Javascript
+
 ♦ Android
+
 ♦ Node.js
 
 
 Tools and Servers
 
+
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
+
 ♦ Git
+
 ♦ Gulp, Grunt
+
 ♦ AWS, Rackspace, Digitalocean & Forge 
+
 
 Github: http://github.com/shellprog
 
